@@ -20,5 +20,5 @@ axios.get('https://sctapi.ftqq.com/SCT139165TckU4uUruV1kYAmZhSIEYyUk9.send?title
 
 
 server.listen(port, () => {
-  console.log(`运行port: ${port}`)
+  console.log(`运行port---: ${port}`)
 })
